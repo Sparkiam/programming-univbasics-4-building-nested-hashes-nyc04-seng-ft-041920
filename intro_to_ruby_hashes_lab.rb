@@ -8,7 +8,7 @@ def base_hash
 end
 
 def monopoly_with_second_tier
-      bash_hash = {
+      bash_hash = {:railroads => 
 }
 
   
