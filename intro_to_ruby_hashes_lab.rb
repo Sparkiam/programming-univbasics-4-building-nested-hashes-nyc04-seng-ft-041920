@@ -10,10 +10,14 @@ end
 def monopoly_with_second_tier
       bash_hash = {
         :railroads => {
-          
+          :rent_in_dollars => {
+          :names => {
+          :pieces => {"4"}
+          }
+          }
         },
 }
-        {:pieces =>{number:"4"}},
+        
 }
   
   
