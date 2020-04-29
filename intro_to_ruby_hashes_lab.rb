@@ -10,7 +10,7 @@ end
 def monopoly_with_second_tier
     bash_hash = {:railroads => {},
 }
-          {:pieces =>{number:"4"}},
+        {:pieces =>{number:"4"}},
 }
   
   
