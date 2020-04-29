@@ -12,7 +12,7 @@ def monopoly_with_second_tier
         :railroads => {
           :rent_in_dollars => {
           :names => {
-          :pieces => {"4"}
+          :pieces => [{"4"}]
           }
           }
         },
